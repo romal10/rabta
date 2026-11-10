@@ -11,6 +11,9 @@ Meetings, cinema nights, screen sharing and chat — as an app.
 - **Meetings & cinema** — Video and voice rooms with one link
 - **Join without login** — Guests join with a link or code
 - **Watch together** — Synced YouTube, screen share with sound
+- **Device ID, no login** — A 9-digit ID like the early days — friends connect directly
+- **TV mode with QR code** — Full screen on the TV, share a screen by scanning, with sound
+- **Celebrate with a wow** — Birthday, wedding, baby: confetti and music for everyone
 
 ## How it works
 
@@ -18,7 +21,9 @@ Meetings, cinema nights, screen sharing and chat — as an app.
 2. Start a meeting or a cinema night and choose who may join: anyone with the link, signed-in people only, with name, name + email, or a code.
 3. Share the link or a short link (`/k/yourname`). Everyone joins in the browser or the installed app.
 4. In the room: camera and microphone, chat, screen share with sound, watch a video together in sync, pins and pen on the shared picture.
-5. As host you can mute, hide a person's camera or microphone from others, limit who may speak, and see every link you shared before — with how long it is valid and what was shown.
+5. Open `/rabta-tv` on a TV or big screen: it shows a QR code. Scan it, share your screen with sound, and the TV shows it full screen with a small popup of who is there.
+6. Every device gets a 9-digit ID on the web page — share it so friends can reach the room you are hosting, without any login.
+7. As host you can mute, hide a person's camera or microphone from others, limit who may speak, and see every link you shared before — with how long it is valid and what was shown.
 
 ## Install the app — free, no app store
 
