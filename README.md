@@ -12,7 +12,7 @@ Meetings, cinema nights, screen sharing and chat — as an app.
 - **Join without login** — Guests join with a link or code
 - **Watch together** — Synced YouTube, screen share with sound
 - **Device ID, no login** — A 9-digit ID like the early days — friends connect directly
-- **Control your TV from your phone** — Pair a TV with a code, run cinema nights from your phone
+- **Control your TV from your phone** — Pair a TV with a code, control it from your phone, watch cinema nights together
 - **Celebrate with a wow** — Birthday, wedding, baby: confetti and music for everyone
 
 ## How it works
@@ -21,7 +21,7 @@ Meetings, cinema nights, screen sharing and chat — as an app.
 2. Start a meeting or a cinema night and choose who may join: anyone with the link, signed-in people only, with name, name + email, or a code.
 3. Share the link or a short link (`/k/yourname`). Everyone joins in the browser or the installed app.
 4. In the room: camera and microphone, chat, screen share with sound, watch a video together in sync, pins and pen on the shared picture.
-5. On the TV open `/tv`: it shows a QR code and a short code. Scan it with your phone (or type the code under *Start a meeting → TV*) and your phone becomes the remote: pick the film or video link, invite guests, decide who may talk or share. The TV shows it full screen, guests watch in sync; a small popup shows who is there.
+5. On the TV open `/tv`: it shows a QR code and a short code. Scan it with your phone (or type the code under Start a meeting → TV) and your phone becomes the remote: pick the film or video link, invite guests, decide who may talk or share. The TV shows it full screen, guests watch in sync; a small popup shows who is there.
 6. Every device gets a 9-digit ID on the web page — share it so friends can reach the room you are hosting, without any login.
 7. As host you can mute, hide a person's camera or microphone from others, limit who may speak, and see every link you shared before — with how long it is valid and what was shown.
 
@@ -54,6 +54,5 @@ The app then opens in its own window or from your home screen, like any other ap
 
 ## Good to know
 
-- A TV browser cannot capture its own screen: the picture comes from the video link you play or a computer's shared screen. Netflix, Prime and other DRM apps cannot be embedded.
 - The service runs privately and is reachable while the host computer is online. If the page shows **Offline**, try again later.
 - This repository holds only the static launcher page. The application's code and data are not published here.
