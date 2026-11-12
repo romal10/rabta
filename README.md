@@ -9,6 +9,7 @@ Meetings, cinema nights, screen sharing and chat — as an app.
 ## What you can do
 
 - **Meetings & cinema** — Video and voice rooms with one link
+- **Chat & contacts need a verified email** — Name + email, 18+, you decide: public or private profile, available or busy
 - **Join without login** — Guests join with a link or code
 - **Watch together** — Synced YouTube, screen share with sound
 - **Device ID, no login** — A 9-digit ID like the early days — friends connect directly
